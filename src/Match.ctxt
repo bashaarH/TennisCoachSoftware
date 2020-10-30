@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Match
+comment1.params=
+comment1.target=Match()
+comment1.text=\r\n\ Default\ constructor\ for\ Match\ Object\r\n
+comment2.params=player1\ player2
+comment2.target=Match(Player,\ Player)
+comment2.text=\r\n\ Constructor\ for\ match\ object\ with\ both\ players\ as\ parameters\ \r\n
+comment3.params=score
+comment3.target=void\ setScore1(int)
+comment3.text=\r\n\ Set\ player1's\ score\ \r\n
+comment4.params=score
+comment4.target=void\ setScore2(int)
+comment4.text=\r\n\ Set\ player2's\ score\r\n
+comment5.params=
+comment5.target=void\ setWinner()
+comment5.text=\r\n\ Determine\ and\ set\ the\ winner\ of\ this\ match.\ \r\n
+comment6.params=
+comment6.target=Player\ getPlayer1()
+comment6.text=\r\n\ Returns\ identity\ of\ player1\ \r\n
+comment7.params=
+comment7.target=Player\ getPlayer2()
+comment7.text=\r\n\ Returns\ the\ identity\ of\ player2\r\n
+comment8.params=
+comment8.target=Player\ getWinner()
+comment8.text=\ \r\n\ Returns\ the\ identity\ of\ the\ winner\ \r\n
+numComments=9

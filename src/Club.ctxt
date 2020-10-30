@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Club
+comment1.params=
+comment1.target=java.lang.String[]\ getNames()
+comment1.text=\r\n\ Returns\ an\ Array\ of\ Strings\ with\ the\ names\ of\ all\ the\ players\ in\ this\ Club\r\n
+comment2.params=court
+comment2.target=java.lang.String\ getCourt(int)
+comment2.text=\r\n\ Returns\ the\ appropriate\ String\ representation\ of\ a\ court\r\n
+comment3.params=day
+comment3.target=void\ update(Day)
+comment3.text=\r\n\ Takes\ a\ Day\ as\ the\ input\ and\ updates\ the\ statistics\ appropriately\ \r\n
+comment4.params=
+comment4.target=void\ save()
+comment4.text=\r\n\ Saves\ the\ BinaryTree\ of\ players\ to\ the\ designated\ file\r\n
+comment5.params=
+comment5.target=void\ start()
+comment5.text=\r\n\ Gets\ the\ most\ updated\ BinaryTree\ of\ players\ from\ the\ appropriate\ file\r\n\ This\ method\ is\ called\ when\ the\ application\ is\ run\ \r\n
+comment6.params=
+comment6.target=boolean\ end()
+comment6.text=\r\n\ Stores\ the\ BinaryTree\ in\ this\ Club\ to\ the\ appropriate\ file\r\n\ This\ method\ is\ called\ when\ the\ application\ is\ closed\r\n
+comment7.params=day
+comment7.target=void\ calcWinPct(Day)
+comment7.text=\r\n\ A\ utility\ method\ for\ calculating\ the\ win\ percentages\ for\ the\ tracked\ players\r\n\ in\ a\ given\ Day\ object\r\n
+comment8.params=day
+comment8.target=void\ calcCrtMvmnt(Day)
+comment8.text=\r\n\ A\ utility\ method\ to\ calculate\ the\ court\ movement\ for\ each\ player\ for\ a\ Day\r\n
+numComments=9

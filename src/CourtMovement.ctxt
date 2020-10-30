@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CourtMovement
+comment1.params=
+comment1.target=CourtMovement()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Statistic\ class\r\n
+comment2.params=start\ end
+comment2.target=CourtMovement(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ the\ Statistic\ class\ with\ the\ starting\ court\ and\ the\ number\ of\r\n\ wins\ and\ rotations\ in\ a\ Day\ as\ the\ parameters\r\n
+comment3.params=
+comment3.target=int\ getStart()
+comment3.text=\r\n\ Returns\ the\ starting\ court\r\n
+comment4.params=
+comment4.target=int\ getEnd()
+comment4.text=\r\n\ Returns\ the\ ending\ court\r\n
+comment5.params=currentCourt
+comment5.target=void\ adjust(int)
+comment5.text=\r\n\ Adjusts\ the\ values\ of\ the\ courts\ based\ on\ if\ the\ player\ has\ won\ on\ top\ of\r\n\ court\ 1\r\n
+comment6.params=
+comment6.target=void\ adjust()
+numComments=7

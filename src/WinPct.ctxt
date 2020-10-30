@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WinPct
+comment1.params=
+comment1.target=WinPct()
+comment1.text=\r\n\ Default\ constructor\ for\ Statistic\ class\r\n
+comment2.params=won
+comment2.target=void\ addServing(boolean)
+comment2.text=\r\n\ Adds\ a\ serving\ rotation\ and\ takes\ if\ the\ rotation\ was\ won\ as\ a\ parameter\r\n
+comment3.params=won
+comment3.target=void\ addFeeding(boolean)
+comment3.text=\r\n\ Adds\ a\ feed\ and\ play\ rotations\ and\ takes\ if\ the\ rotation\ was\ won\ as\ a\ parameter\r\n
+comment4.params=
+comment4.target=double\ getServing()
+comment4.text=\r\n\ Returns\ the\ serving\ rotation\ win\ percentage\r\n
+comment5.params=
+comment5.target=double\ getFeeding()
+comment5.text=\r\n\ Returns\ the\ feed\ and\ play\ win\ percentage\ \r\n
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LineGraph
+comment1.params=title\ axis\ dataset
+comment1.target=LineGraph(java.lang.String,\ java.lang.String,\ org.jfree.data.category.DefaultCategoryDataset)
+comment10.params=arg0
+comment10.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+comment2.params=values
+comment2.target=void\ createPctGraph(java.lang.Object[])
+comment3.params=values
+comment3.target=void\ createCrtGraph(java.lang.Object[])
+comment4.params=arg0
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.params=arg0
+comment5.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment6.params=arg0
+comment6.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment7.params=arg0
+comment7.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment8.params=arg0
+comment8.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment9.params=arg0
+comment9.target=void\ windowActivated(java.awt.event.WindowEvent)
+numComments=11

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Statistic
+comment1.params=
+comment1.target=Statistic()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Statistic\ class\r\n
+comment2.params=name\ ID\ date
+comment2.target=Statistic(java.lang.String,\ java.lang.String,\ java.util.Calendar)
+comment2.text=\r\n\ Constructor\ for\ the\ Statistic\ class\ with\ the\ name\ and\ ID\ of\ the\ player\ and\ the\ date\ as\ the\ parameters\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDate()
+comment3.text=\r\n\ Returns\ the\ date\ this\ statistic\ was\ taken\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ player\ to\ whom\ this\ Statistic\ belongs\r\n
+comment5.params=
+comment5.target=java.lang.String\ getID()
+comment5.text=\r\n\ Returns\ the\ ID\ of\ the\ player\ to\ whom\ this\ Statistic\ belongs\ \r\n
+comment6.params=
+comment6.target=double\ getValue()
+comment6.text=\r\n\ Returns\ the\ value\ of\ this\ statistic\r\n
+comment7.params=value
+comment7.target=void\ setValue(double)
+comment7.text=\r\n\ Sets\ the\ value\ of\ this\ statistic\ to\ the\ given\ value\ \r\n
+comment8.params=name
+comment8.target=void\ setName(java.lang.String)
+comment8.text=\r\n\ Sets\ the\ names\ of\ the\ player\ to\ whom\ this\ Statistic\ belongs\ \r\n
+numComments=9
